@@ -28,4 +28,4 @@ Desafio inicial do Bootcamp da [Rocketseat](https://rocketseat.com.br/gostack) p
 
 #### Resultado ####
 
-![GitHub Logo](/resultado.jpeg | width=100)
+![](https://github.com/claudivanmoreira/bootcamp-conceitos-reactnative/blob/master/resultado.jpeg?s=100)
