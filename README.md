@@ -28,4 +28,4 @@ Desafio inicial do Bootcamp da [Rocketseat](https://rocketseat.com.br/gostack) p
 
 #### Resultado ####
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/resultado.jpeg)
