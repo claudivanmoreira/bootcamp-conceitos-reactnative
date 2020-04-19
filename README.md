@@ -28,4 +28,4 @@ Desafio inicial do Bootcamp da [Rocketseat](https://rocketseat.com.br/gostack) p
 
 #### Resultado ####
 
-![Resultado](./resultado.jpeg =250x20)
+![Resultado](./resultado.jpeg)
